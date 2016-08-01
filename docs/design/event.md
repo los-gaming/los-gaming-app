@@ -32,6 +32,7 @@ Users will mark "Attending" or "Not Attending" to complete the RSVP process. Tea
 - Not Attending is a **mutually exclusive** choice.
 - Attending is a **mutually exclusive** choice.
 - Attending as a Streamer and Attending as a Team Captain are **not mutually exclusive** choices with each other, however they *are* **mutually exclusive** with Attending and Not Attending.
+
 #### Choice Permutations
 - Attending
 - Not Attending
