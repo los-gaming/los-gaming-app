@@ -1,2 +1,5 @@
 # Line of Sight Gaming App Documentation
-## Welcome to the LoS Gaming App docs!
+This repository serves as a design dump for all things relating to the LoS Gaming App.
+
+# License
+MIT
